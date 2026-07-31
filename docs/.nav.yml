@@ -1,0 +1,8 @@
+nav:
+- Home:
+  -index.md
+  -Tags.md
+- Blog: Blog post
+- Yara: 100 days of yara fun
+- Sigma: 100 days of sigma fun
+- Resume: Resume
