@@ -36,8 +36,8 @@ site_description = "A new project generated from the default template project."
 # fragment.
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
-copyright = "Martin Szeljack"
-Copyright &copy; 2026 The authors
+copyright = """
+Copyright &copy; 2026 Martin Szeljack
 """
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
