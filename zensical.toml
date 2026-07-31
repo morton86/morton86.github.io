@@ -8,7 +8,7 @@
 
 [project]
 site_name = "M0rt0n hears a wh0: Cybersecurtiy Ramblings"
-site_description = "Personal blog of things dealing with Cyber Securtiy, mostly Blue team (IR, Detection Engineering, Engineering)
+site_description = "Personal blog of things dealing with Cyber Securtiy, mostly Blue team (IR, Detection Engineering, Engineering)"
 site_author = "martin.szeljack86@gmail.com"
 
 # The site_name is shown in the page header and the browser window title
